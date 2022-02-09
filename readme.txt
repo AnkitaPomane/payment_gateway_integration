@@ -1,1 +1,2 @@
-There will be a simple donate button on homepage. On clicking the donate button, the user will land on the payment page where user can select the amount to be paid and the payment type, e.g. credit card, Paypal, etc.
+My name is Ankita Pomane and Currently i'm Working as an intern at the Spark Foundation in the batch #GRIPFEBRUARY22 and I'm very pleased and excited for completing this Second task. the task was to create a #payment_gateway_integration for #The_Spark_Foundation and was able to do so.
+in this task , There will be a simple donate button on homepage. On clicking the donate button, the user will land on the payment page where user can select the amount to be paid and the payment type, e.g. credit card, Paypal, etc.
